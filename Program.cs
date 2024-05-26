@@ -1,5 +1,5 @@
 
-namespace ${{project_slug}};
+namespace ${{values.project_slug | dump}};
 
 public class Program
 {
