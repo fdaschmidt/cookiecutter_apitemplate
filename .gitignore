@@ -1,4 +1,4 @@
 /.vs
 /bin
 /obj
-/${{values.project_slug | dump}}.csproj.user
+/${{values.project_slug}}.csproj.user
