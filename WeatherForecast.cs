@@ -1,4 +1,4 @@
-namespace {{ cookiecutter.project_slug }}
+namespace {{cookiecutter.project_slug}};
 
 public class WeatherForecast
 {
