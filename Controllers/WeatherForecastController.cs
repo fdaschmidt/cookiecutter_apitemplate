@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace {{cookiecutter.project_slug}}.Controllers {
+namespace ${{project_slug}}.Controllers {
 
 [ApiController]
 [Route("[controller]")]

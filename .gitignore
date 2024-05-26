@@ -1,4 +1,4 @@
 /.vs
 /bin
 /obj
-/{{cookiecutter.project_slug}}.csproj.user
+/${{project_slug}}.csproj.user

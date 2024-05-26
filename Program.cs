@@ -1,5 +1,5 @@
 
-namespace {{cookiecutter.project_slug}};
+namespace ${{project_slug}};
 
 public class Program
 {

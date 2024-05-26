@@ -1,6 +1,0 @@
-@{{cookiecutter.project_slug}}_HostAddress = http://localhost:5292
-
-GET {{'{{'}}{{cookiecutter.project_slug}}_HostAddress{{'}}'}}/weatherforecast/
-Accept: application/json
-
-###
